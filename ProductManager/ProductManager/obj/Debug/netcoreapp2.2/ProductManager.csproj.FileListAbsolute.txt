@@ -1,0 +1,11 @@
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\bin\Debug\netcoreapp2.2\ProductManager.deps.json
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\bin\Debug\netcoreapp2.2\ProductManager.runtimeconfig.json
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\bin\Debug\netcoreapp2.2\ProductManager.runtimeconfig.dev.json
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\bin\Debug\netcoreapp2.2\ProductManager.dll
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\bin\Debug\netcoreapp2.2\ProductManager.pdb
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\obj\Debug\netcoreapp2.2\ProductManager.csprojAssemblyReference.cache
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\obj\Debug\netcoreapp2.2\ProductManager.csproj.CoreCompileInputs.cache
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\obj\Debug\netcoreapp2.2\ProductManager.AssemblyInfoInputs.cache
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\obj\Debug\netcoreapp2.2\ProductManager.AssemblyInfo.cs
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\obj\Debug\netcoreapp2.2\ProductManager.dll
+C:\repos\C_Sharp_instruction\ProductManager\ProductManager\obj\Debug\netcoreapp2.2\ProductManager.pdb
