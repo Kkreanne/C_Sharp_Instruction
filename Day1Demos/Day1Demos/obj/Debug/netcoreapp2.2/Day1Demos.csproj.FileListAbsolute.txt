@@ -1,0 +1,11 @@
+C:\repos\Day1Demos\Day1Demos\bin\Debug\netcoreapp2.2\Day1Demos.deps.json
+C:\repos\Day1Demos\Day1Demos\bin\Debug\netcoreapp2.2\Day1Demos.runtimeconfig.json
+C:\repos\Day1Demos\Day1Demos\bin\Debug\netcoreapp2.2\Day1Demos.runtimeconfig.dev.json
+C:\repos\Day1Demos\Day1Demos\bin\Debug\netcoreapp2.2\Day1Demos.dll
+C:\repos\Day1Demos\Day1Demos\bin\Debug\netcoreapp2.2\Day1Demos.pdb
+C:\repos\Day1Demos\Day1Demos\obj\Debug\netcoreapp2.2\Day1Demos.csprojAssemblyReference.cache
+C:\repos\Day1Demos\Day1Demos\obj\Debug\netcoreapp2.2\Day1Demos.csproj.CoreCompileInputs.cache
+C:\repos\Day1Demos\Day1Demos\obj\Debug\netcoreapp2.2\Day1Demos.AssemblyInfoInputs.cache
+C:\repos\Day1Demos\Day1Demos\obj\Debug\netcoreapp2.2\Day1Demos.AssemblyInfo.cs
+C:\repos\Day1Demos\Day1Demos\obj\Debug\netcoreapp2.2\Day1Demos.dll
+C:\repos\Day1Demos\Day1Demos\obj\Debug\netcoreapp2.2\Day1Demos.pdb
