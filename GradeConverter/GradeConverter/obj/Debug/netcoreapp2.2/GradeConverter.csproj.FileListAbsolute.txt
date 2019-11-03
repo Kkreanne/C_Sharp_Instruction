@@ -1,0 +1,11 @@
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\bin\Debug\netcoreapp2.2\GradeConverter.deps.json
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\bin\Debug\netcoreapp2.2\GradeConverter.runtimeconfig.json
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\bin\Debug\netcoreapp2.2\GradeConverter.runtimeconfig.dev.json
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\bin\Debug\netcoreapp2.2\GradeConverter.dll
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\bin\Debug\netcoreapp2.2\GradeConverter.pdb
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\obj\Debug\netcoreapp2.2\GradeConverter.csprojAssemblyReference.cache
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\obj\Debug\netcoreapp2.2\GradeConverter.csproj.CoreCompileInputs.cache
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\obj\Debug\netcoreapp2.2\GradeConverter.AssemblyInfoInputs.cache
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\obj\Debug\netcoreapp2.2\GradeConverter.AssemblyInfo.cs
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\obj\Debug\netcoreapp2.2\GradeConverter.dll
+C:\repos\C_Sharp_instruction\GradeConverter\GradeConverter\obj\Debug\netcoreapp2.2\GradeConverter.pdb
